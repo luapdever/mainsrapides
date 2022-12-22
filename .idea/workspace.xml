@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/nouveau-microservice.php" description="Nom du service" line="250" mnemonic="1" />
+    <bookmark url="file://$PROJECT_DIR$/nouveau-microservice.php" description="Catégorie" line="278" mnemonic="2" />
+    <bookmark url="file://$PROJECT_DIR$/nouveau-microservice.php" description="Sous catégorie" line="286" mnemonic="3" />
+    <bookmark url="file://$PROJECT_DIR$/nouveau-microservice.php" description="Consignes" line="365" mnemonic="5" />
+    <bookmark url="file://$PROJECT_DIR$/nouveau-microservice.php" description="Je n'ai besoin d'aucune consigne" line="371" mnemonic="6" />
+    <bookmark url="file://$PROJECT_DIR$/nouveau-microservice.php" description="Image 1" line="400" mnemonic="7" />
+    <bookmark url="file://$PROJECT_DIR$/nouveau-microservice.php" description="Image 2" line="413" mnemonic="8" />
+    <bookmark url="file://$PROJECT_DIR$/nouveau-microservice.php" description="Image 3" line="426" mnemonic="9" />
+    <bookmark url="file://$PROJECT_DIR$/nouveau-microservice.php" description="Option Sup Checkbox" line="456" mnemonic="A" />
+    <bookmark url="file://$PROJECT_DIR$/nouveau-microservice.php" description="Option Nombre Select" line="475" mnemonic="B" />
+    <bookmark url="file://$PROJECT_DIR$/nouveau-microservice.php" description="Option 1" line="603" mnemonic="C" />
+    <bookmark url="file://$PROJECT_DIR$/nouveau-microservice.php" description="Option 2" line="673" mnemonic="D" />
+    <bookmark url="file://$PROJECT_DIR$/nouveau-microservice.php" description="Option 3" line="743" mnemonic="E" />
+    <bookmark url="file://$PROJECT_DIR$/nouveau-microservice.php" description="Option 4" line="813" mnemonic="F" />
+    <bookmark url="file://$PROJECT_DIR$/nouveau-microservice.php" description="Option 5" line="883" mnemonic="G" />
+    <bookmark url="file://$PROJECT_DIR$/nouveau-microservice.php" description="Option 6" line="953" mnemonic="H" />
+    <bookmark url="file://$PROJECT_DIR$/nouveau-microservice.php" description="Option 7" line="1023" mnemonic="I" />
+    <bookmark url="file://$PROJECT_DIR$/nouveau-microservice.php" description="Option 8" line="1093" mnemonic="J" />
+    <bookmark url="file://$PROJECT_DIR$/nouveau-microservice.php" description="Option 9" line="1163" mnemonic="K" />
+    <bookmark url="file://$PROJECT_DIR$/nouveau-microservice.php" description="Option 10" line="1233" mnemonic="L" />
+    <bookmark url="file://$PROJECT_DIR$/nouveau-microservice.php" description="Bouton Submit" line="1301" mnemonic="M" />
+    <bookmark url="file://$PROJECT_DIR$/nouveau-microservice.php" description="Description du microservice" line="315" mnemonic="4" />
+    <bookmark url="file://$PROJECT_DIR$/index.php" description="Accueil Services Grid" line="848" mnemonic="N" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="82dd1f4e-dcda-4780-9c93-ad979305945c" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/fedapay-php-master/composer.json</pharConfigPath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="milleland@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="nouveau-microservice.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nouveau-microservice.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="28875">
+              <caret line="1375" column="53" selection-start-line="1375" selection-start-column="16" selection-end-line="1375" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script_new_service.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scripts_php/script_new_service.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="30" column="31" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>revenus_retires</find>
+      <find>revenus_retires_data</find>
+      <find>collapse1</find>
+      <find>5000</find>
+      <find>Je vais '.</find>
+      <find>&lt;a href=&quot;microservice.php?msv='. $row['id_service'] .'&quot; class=&quot;product_title&quot;&gt;</find>
+      <find>&lt;h4 style=&quot;line-height: 35px; margin-top: -8px; text-transform: none;&quot;&gt;Je vais '.$name_service.'&lt;/h4&gt;</find>
+      <find>Vendeur vé</find>
+      <find>Abonnements</find>
+      <find>Contacter un</find>
+      <find>Favoris</find>
+      <find>Administrateur</find>
+      <find>Première plate-forme</find>
+      <find>est la premi</find>
+      <find>conditions.php</find>
+      <find>$mail</find>
+      <find>textarea</find>
+      <find>date(&quot;d-m-Y</find>
+      <find>categorie</find>
+      <find>souscategorie</find>
+      <find>fetch_categorie.php</find>
+      <find>then</find>
+      <find>enctype</find>
+      <find>service_vendeur.php</find>
+      <find>fichier_form</find>
+      <find>window.location = &quot;souscription.php&quot;;</find>
+      <find>encryptCookie</find>
+      <find>session</find>
+      <find>$_SESSION['nom_user']</find>
+      <find>onmouse</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>_six</replace>
+      <replace>_sept</replace>
+      <replace>_huit</replace>
+      <replace>_neuf</replace>
+      <replace>_dix</replace>
+      <replace>Taux de réussite du vendeur pour ce microservice</replace>
+      <replace>'Oui'</replace>
+      <replace>nom_fichier</replace>
+      <replace>acheteur</replace>
+      <replace>avatar_user</replace>
+      <replace>_acheteur_</replace>
+      <replace>l'image de couverture</replace>
+      <replace>achats</replace>
+      <replace>- 1000fcfa.com</replace>
+      <replace>&lt;?php include 'parts/js_scripts.php';?&gt; &lt;?php include 'parts/notifications_dropdown.php';?&gt;</replace>
+      <replace>load_unseen_sms</replace>
+      <replace>&lt;?php include 'parts/js_scripts.php';?&gt; &lt;?php include 'parts/notifications_dropdown.php';?&gt; &lt;?php if( (isset($_SESSION['id_user'])) &amp;&amp; ($_SESSION['type'] == 3) ) { include 'parts/sms_acheteur_header.php'; } ?&gt; &lt;?php if( (isset($_SESSION['id_user'])) &amp;&amp; ($_SESSION['type'] == 4) ) { include 'parts/sms_vendeur_header.php'; } ?&gt;</replace>
+      <replace>$prix</replace>
+      <replace>1000fcfa.com</replace>
+      <replace>&lt;?php include 'parts/newsletter.php';?&gt;&lt;/html&gt;</replace>
+      <replace>1000f</replace>
+      <replace>1000F</replace>
+      <replace>Microservices</replace>
+      <replace>$_SESSION['admin_type']</replace>
+      <replace>$_SESSION['admin_nom_user']</replace>
+      <replace>abonnement</replace>
+      <replace>statut_tp</replace>
+      <replace>commande</replace>
+      <replace>retrait</replace>
+      <replace>delai</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/scripts_php/admin_deactivate_message.php" />
+        <option value="$PROJECT_DIR$/scripts_php/admin_activate_message.php" />
+        <option value="$PROJECT_DIR$/scripts_php/admin_avertir_message.php" />
+        <option value="$PROJECT_DIR$/parts/admin_menu_sidebar.php" />
+        <option value="$PROJECT_DIR$/scripts_php/admin_fetch_messages.php" />
+        <option value="$PROJECT_DIR$/admin-messages.php" />
+        <option value="$PROJECT_DIR$/scripts_php/fonctions.php" />
+        <option value="$PROJECT_DIR$/scripts_php/admin_fetch_fichier.php" />
+        <option value="$PROJECT_DIR$/admin-bibliotheque.php" />
+        <option value="$PROJECT_DIR$/admin-tb.php" />
+        <option value="$PROJECT_DIR$/admin-newsletter.php" />
+        <option value="$PROJECT_DIR$/scripts_php/admin_fetch_newsletter.php" />
+        <option value="$PROJECT_DIR$/scripts_php/livrer_client.php" />
+        <option value="$PROJECT_DIR$/ventes-en-cours.php" />
+        <option value="$PROJECT_DIR$/scripts_php/annuler_cmde.php" />
+        <option value="$PROJECT_DIR$/scripts_php/fetch_vente_en_cours.php" />
+        <option value="$PROJECT_DIR$/souscription.php" />
+        <option value="$PROJECT_DIR$/gerer-microservices.php" />
+        <option value="$PROJECT_DIR$/scripts_php/script_inscription.php" />
+        <option value="$PROJECT_DIR$/parts/headstyle.php" />
+        <option value="$PROJECT_DIR$/scripts_php/service_vendeur.php" />
+        <option value="$PROJECT_DIR$/scripts_php/autre_microservice.php" />
+        <option value="$PROJECT_DIR$/scripts_php/service_accueil.php" />
+        <option value="$PROJECT_DIR$/scripts_php/fetch_categorie_parente.php" />
+        <option value="$PROJECT_DIR$/scripts_php/fetch_liste_microservices.php" />
+        <option value="$PROJECT_DIR$/scripts_php/fetch_favoris_vendeur.php" />
+        <option value="$PROJECT_DIR$/scripts_php/fetch_recherche.php" />
+        <option value="$PROJECT_DIR$/scripts_php/fetch_categorie.php" />
+        <option value="$PROJECT_DIR$/scripts_php/microservice_similaire.php" />
+        <option value="$PROJECT_DIR$/scripts_php/service_verif_accueil.php" />
+        <option value="$PROJECT_DIR$/scripts_php/fetch_favoris_acheteur.php" />
+        <option value="$PROJECT_DIR$/microservice.php" />
+        <option value="$PROJECT_DIR$/voir-microservice.php" />
+        <option value="$PROJECT_DIR$/contact.php" />
+        <option value="$PROJECT_DIR$/parts/menu_sidebar.php" />
+        <option value="$PROJECT_DIR$/parts/header.php" />
+        <option value="$PROJECT_DIR$/admin-commandes.php" />
+        <option value="$PROJECT_DIR$/scripts_php/admin_ecrire_acheteur.php" />
+        <option value="$PROJECT_DIR$/scripts_php/admin_ecrire_vendeur.php" />
+        <option value="$PROJECT_DIR$/scripts_php/admin_fetch_commandes.php" />
+        <option value="$PROJECT_DIR$/connexion.php" />
+        <option value="$PROJECT_DIR$/scripts_php/script_connexion.php" />
+        <option value="$PROJECT_DIR$/deconnexion.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/conditions.php" />
+        <option value="$PROJECT_DIR$/inscription.php" />
+        <option value="$PROJECT_DIR$/parts/footer.php" />
+        <option value="$PROJECT_DIR$/test5.php" />
+        <option value="$PROJECT_DIR$/parts/header-hostpapa.php" />
+        <option value="$PROJECT_DIR$/scripts_php/script_paiement_hostpapa.php" />
+        <option value="$PROJECT_DIR$/paiement-hostpapa.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="1000f" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1000f" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1000f" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1000f" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1000f" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1000f" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts_php" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1000f" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="1000f" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hotel" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\1000f\scripts_php" />
+      <recent name="C:\xampp\htdocs\1000f" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\1000f\scripts_php" />
+      <recent name="C:\xampp\htdocs\1000f\images" />
+      <recent name="C:\xampp\htdocs\1000f\parts" />
+      <recent name="C:\xampp\htdocs\1000f" />
+      <recent name="C:\xampp\htdocs\1000f\admin" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="favoris-acheteur.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/1000f/favoris-acheteur.php" />
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.favoris-acheteur.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82dd1f4e-dcda-4780-9c93-ad979305945c" name="Default" comment="" />
+      <created>1602543653462</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602543653462</updated>
+      <workItem from="1602543654802" duration="5527000" />
+      <workItem from="1602568185544" duration="35075000" />
+      <workItem from="1602655102310" duration="32517000" />
+      <workItem from="1602753433959" duration="11600000" />
+      <workItem from="1602833074260" duration="10498000" />
+      <workItem from="1602916803879" duration="32573000" />
+      <workItem from="1603014188354" duration="15589000" />
+      <workItem from="1603069566957" duration="712000" />
+      <workItem from="1603090543515" duration="9878000" />
+      <workItem from="1603179596147" duration="16731000" />
+      <workItem from="1603311776485" duration="1191000" />
+      <workItem from="1603346066001" duration="63831000" />
+      <workItem from="1603521337772" duration="22463000" />
+      <workItem from="1603606671082" duration="15923000" />
+      <workItem from="1603711902409" duration="10056000" />
+      <workItem from="1603785735591" duration="22233000" />
+      <workItem from="1603875253869" duration="9029000" />
+      <workItem from="1604049783015" duration="16595000" />
+      <workItem from="1604151071862" duration="8968000" />
+      <workItem from="1604167575735" duration="8788000" />
+      <workItem from="1604391835030" duration="18421000" />
+      <workItem from="1604474097847" duration="27903000" />
+      <workItem from="1604656874188" duration="2976000" />
+      <workItem from="1604736691654" duration="39767000" />
+      <workItem from="1604908915309" duration="19706000" />
+      <workItem from="1604993500521" duration="32518000" />
+      <workItem from="1605090104074" duration="1209000" />
+      <workItem from="1605169734198" duration="19351000" />
+      <workItem from="1605271947764" duration="3229000" />
+      <workItem from="1605299071869" duration="7939000" />
+      <workItem from="1605510092063" duration="7656000" />
+      <workItem from="1605685894701" duration="4529000" />
+      <workItem from="1605783530310" duration="1202000" />
+      <workItem from="1605794098951" duration="38680000" />
+      <workItem from="1605941875664" duration="34512000" />
+      <workItem from="1606120830058" duration="48152000" />
+      <workItem from="1606376070204" duration="52159000" />
+      <workItem from="1606548817907" duration="27275000" />
+      <workItem from="1606643213821" duration="19528000" />
+      <workItem from="1606728028078" duration="65802000" />
+      <workItem from="1606903912647" duration="12012000" />
+      <workItem from="1606988335748" duration="73474000" />
+      <workItem from="1607243696447" duration="55509000" />
+      <workItem from="1607423388738" duration="12848000" />
+      <workItem from="1607492166650" duration="20962000" />
+      <workItem from="1607692962487" duration="7208000" />
+      <workItem from="1607761557481" duration="48943000" />
+      <workItem from="1608029048085" duration="2754000" />
+      <workItem from="1608148819344" duration="2270000" />
+      <workItem from="1608284589269" duration="11714000" />
+      <workItem from="1608387614031" duration="6144000" />
+      <workItem from="1608470961028" duration="3252000" />
+      <workItem from="1608992988371" duration="815000" />
+      <workItem from="1609077466524" duration="12723000" />
+      <workItem from="1609194574392" duration="47000" />
+      <workItem from="1609417436415" duration="859000" />
+      <workItem from="1610802759530" duration="2244000" />
+      <workItem from="1610966311070" duration="5646000" />
+      <workItem from="1611037324316" duration="39418000" />
+      <workItem from="1611322913402" duration="18737000" />
+      <workItem from="1611699695991" duration="18902000" />
+      <workItem from="1611829368653" duration="18189000" />
+      <workItem from="1611906157191" duration="6908000" />
+      <workItem from="1612008250515" duration="22867000" />
+      <workItem from="1612049230563" duration="4851000" />
+      <workItem from="1612268498476" duration="19537000" />
+      <workItem from="1612357606508" duration="35241000" />
+      <workItem from="1612514262906" duration="38124000" />
+      <workItem from="1612616005238" duration="9494000" />
+      <workItem from="1612800296755" duration="5479000" />
+      <workItem from="1612944881128" duration="6566000" />
+      <workItem from="1613037739430" duration="4992000" />
+      <workItem from="1613095511258" duration="97000" />
+      <workItem from="1613492452227" duration="5665000" />
+      <workItem from="1613588524857" duration="1048000" />
+      <workItem from="1613687104265" duration="12525000" />
+      <workItem from="1614643396070" duration="6764000" />
+      <workItem from="1614757425219" duration="604000" />
+      <workItem from="1615201801368" duration="813000" />
+      <workItem from="1616666115194" duration="5318000" />
+      <workItem from="1618248305080" duration="3638000" />
+      <workItem from="1618655980696" duration="1828000" />
+      <workItem from="1619004496613" duration="595000" />
+      <workItem from="1619965905829" duration="50000" />
+      <workItem from="1620911704820" duration="497000" />
+      <workItem from="1620931751801" duration="2401000" />
+      <workItem from="1621258444014" duration="649000" />
+      <workItem from="1621867262854" duration="1856000" />
+      <workItem from="1621941733592" duration="3555000" />
+      <workItem from="1622294989837" duration="3000" />
+      <workItem from="1628380136285" duration="3803000" />
+      <workItem from="1639485274597" duration="971000" />
+      <workItem from="1639573859925" duration="3505000" />
+      <workItem from="1639816332551" duration="3149000" />
+      <workItem from="1639913270303" duration="573000" />
+      <workItem from="1640702238335" duration="5008000" />
+      <workItem from="1640877114417" duration="592000" />
+      <workItem from="1642353683787" duration="958000" />
+      <workItem from="1642378130532" duration="611000" />
+      <workItem from="1642450870084" duration="25000" />
+      <workItem from="1643462955195" duration="542000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1418663000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.1969697" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.11353944" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" weight="0.09221748" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Database Console" order="8" weight="0.32900432" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.19029851" />
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.09221748" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.1969697" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Database Console" order="12" weight="0.32900432" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="12" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/scripts_php/admin_fetch_commandes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="130" column="207" selection-start-line="130" selection-start-column="207" selection-end-line="130" selection-end-column="207" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/achats-en-cours.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conditions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1848">
+          <caret line="88" column="42" selection-start-line="88" selection-start-column="42" selection-end-line="88" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parts/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test2.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test5.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parts/headmeta.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parts/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/messages.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11886">
+          <caret line="566" column="40" selection-start-line="566" selection-start-column="40" selection-end-line="566" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts_php/script_paiement_hostpapa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paiement-hostpapa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="259" selection-start-line="259" selection-end-line="259" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts_php/script_inscription.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inscription.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2898">
+          <caret line="138" column="42" selection-start-line="138" selection-start-column="42" selection-end-line="138" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts_php/script_reset_mdp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts_php/action_vente_annulee.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts_php/activate_service.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts_php/script_newsletter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="34" column="46" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts_php/fetch_souscategorie.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="35" column="2" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts_php/admin_activate_user.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts_php/admin_ecrire_vendeur.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts_php/fetch_sms.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1116" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts_php/fetch_sms_acheteur.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1806" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts_php/fetch_recherche.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1344">
+          <caret line="64" column="28" selection-start-line="64" selection-start-column="28" selection-end-line="64" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts_php/fetch_vente_terminee.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts_php/fetch_favoris_acheteur.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1075">
+          <caret line="63" column="34" lean-forward="true" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts_php/fetch_contenu_sms.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2436">
+          <caret line="116" column="30" selection-start-line="116" selection-start-column="30" selection-end-line="116" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts_php/fetch_achat_annule.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts_php/fetch_achat_en_cours.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts_php/fetch_achat_termine.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/categorie-autres-vie-quotidienne.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1869">
+          <caret line="89" column="23" selection-start-line="73" selection-start-column="8" selection-end-line="89" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts_php/fetch_categorie.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1659">
+          <caret line="79" column="26" selection-start-line="79" selection-start-column="26" selection-end-line="79" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63882">
+          <caret line="3042" column="54" selection-start-line="3042" selection-start-column="24" selection-end-line="3042" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts_php/vendeur_send_fichier.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="42" column="77" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts_php/service_vendeur.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bibliotheque-vendeur.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="183" column="83" selection-start-line="183" selection-start-column="54" selection-end-line="183" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connexion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="587">
+          <caret line="207" column="20" lean-forward="true" selection-start-line="207" selection-start-column="20" selection-end-line="207" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts_php/script_connexion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-536">
+          <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deconnexion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tb-achats.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parts/header-hostpapa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3864">
+          <caret line="189" selection-start-line="189" selection-end-line="189" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tb-ventes.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts_php/fonctions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1029">
+          <caret line="54" column="1" selection-start-line="34" selection-end-line="54" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts_php/action_achat_en_cours.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts_php/action_achat_termine.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts_php/fonctions_sql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1512">
+          <caret line="117" column="6" selection-start-line="106" selection-start-column="4" selection-end-line="117" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts_php/insert_abo_standard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="56" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts_php/avis_save.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="23" column="59" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nouveau-microservice.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28875">
+          <caret line="1375" column="53" selection-start-line="1375" selection-start-column="16" selection-end-line="1375" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts_php/script_new_service.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="30" column="31" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

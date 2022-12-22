@@ -1,0 +1,55 @@
+*************Priorité sur la gestion CRUD des annonces, missions, categories, subcategories, travaux
+
+*************Menus
+
+7 *** Tb de bord - 1h
+
+4 *** Mon compte
+    --Voir mon profil - 5h
+    --Mes informations - 1h
+    --Mes coordonnees - 1h
+    --Badge identite - 2h
+    --Book photo - 1h
+    --Competences - 4h
+    --Mon mot de passe - 1h
+    --Mes preferences mails - 2h
+
+3 *** Mes paiements
+    --Paiements effectues, a venir, recus - 6h
+    --Informations de paiements - 3h
+
+1 ** Mes annonces - 6h
+
+2 *** Mes missions - 6h
+
+6 ***Ma messagerie - 6h
+
+5 *** Mes parainages - 6h
+
+8 *** Aide - 4h
+
+
+
+
+*************Font-end
+Home Page - 2h
+Help Page - 2h
+
+************FAQ - 6h
+
+
+
+
+********Paiements
+Les champs
+    annonces
+    jobber
+    client
+    frais de service
+    frais de paiement
+
+
+Changement de statut de paiement d'une mission (terminée et payée)
+
+Basculer du paiement à venir vers paiements reçus
+
